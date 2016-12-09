@@ -16,19 +16,23 @@ This plugin will show you random Queen (or Queen band member) song on the right 
 
 This function will return an array with your inspiration. This code:
 
+```PHP
 if ( function_exists( 'pqi_get_inspiration' ) ) {
 	$inspiration = pqi_get_inspiration();
 	echo '&lt;pre>' . print_r( $inspiration, true ) . '&lt;/pre>';
 }
+```
 
 will return something like this:
 
+```PHP
 Array
 (
     [url] => https://www.youtube.com/results?search_query=Queen+-+Vultan%27s+Theme+%28Attack+of+the+Hawk+Men%29
     [title] => Queen - Vultan's Theme (Attack of the Hawk Men)
     [html] => <div id="phylax_queen_inspiration"><a href="https://www.youtube.com/results?search_query=Queen+-+Vultan%27s+Theme+%28Attack+of+the+Hawk+Men%29" target="_blank" title="Queen - Vultan's Theme (Attack of the Hawk Men)">Queen - Vultan's Theme (Attack of the Hawk Men)</a></div>
 )
+```
 
 ### Filters
 
