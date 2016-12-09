@@ -19,7 +19,7 @@ This function will return an array with your inspiration. This code:
 ```PHP
 if ( function_exists( 'pqi_get_inspiration' ) ) {
 	$inspiration = pqi_get_inspiration();
-	echo '&lt;pre>' . print_r( $inspiration, true ) . '&lt;/pre>';
+	echo '<pre>' . print_r( $inspiration, true ) . '</pre>';
 }
 ```
 
