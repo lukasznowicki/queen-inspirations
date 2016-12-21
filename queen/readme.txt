@@ -5,7 +5,7 @@ Tags: Queen, Freddie, Mercury, Brian, May, Roger, Taylor, Freddie Mercury, Brian
 Requires at least: 4.0
 Tested up to: 4.7
 Contributors: lukasznowicki
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PGX98PG4JNK42
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FXXQ82M3JLVNU
 Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

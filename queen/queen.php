@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Queen Inspirations
-Plugin URI: http://wordpress.org/plugins/queen-inspirations/
+Plugin URI: https://wordpress.org/plugins/queen-inspirations/
 Description: While writing your blog, sometimes you may need some additional inspirations. Queen songs is the best inspiration for me and I hope it will work for you! This plugin will display random Queen song title in the upper right of your admin panel. Song title is clickable and will guide you to youtube search results with this particular song. Absolutely must have for every Queen fan and a nice inspiration for all others. Have fun!
 Author: Lukasz Nowicki
 Author URI: http://lukasznowicki.info/
