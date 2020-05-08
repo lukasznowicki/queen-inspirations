@@ -42,7 +42,7 @@ This filter is applied on plugin output in the admin screen. It **is not** appli
 
 
 ## Authors
-* Lukasz Nowicki <https://lukasznowicki.info/>
+* Łukasz Nowicki <https://lukasznowicki.info/>
 * [Kurs programowania WordPress](https://wpkurs.pl/)
 * [Strony internetowe, aplikacje](https://phylax.pl/)
 
