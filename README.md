@@ -42,10 +42,11 @@ This filter is applied on plugin output in the admin screen. It **is not** appli
 
 
 ## Authors
-* Lukasz Nowicki <http://lukasznowicki.info/>
+* Lukasz Nowicki <https://lukasznowicki.info/>
+* (Kurs programowania WordPress)<https://wpkurs.pl/>
 
 ## License
-Copyright 2016 phylax.pl £ukasz Nowicki
+Copyright 2016 phylax.pl Â£ukasz Nowicki
 <https://phylax.pl/>
 
 Licensed under the GPLv2 or later: <http://www.gnu.org/licenses/gpl-2.0.html>
